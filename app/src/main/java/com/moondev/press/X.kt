@@ -12,7 +12,7 @@ import android.util.Log
 import android.view.View
 import java.io.File
 
-val api_key ="aec89f532d7e486c8ea13dc3c87cb4ea"
+val api_key ="YOURKEY"
 val base_url = "https://newsapi.org/"
 
 
