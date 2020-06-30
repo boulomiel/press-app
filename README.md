@@ -33,11 +33,11 @@ and reinitialized in a background thread.
 ### Read more Button
 The button redirects the user to the source media and open the device's navigator. 
 
-###Design
+### Design
 Views have their own homemade xml file, and and material library has been used.
 
 
-###Implementations
+### Implementations
     def lifecycle_version = "2.2.0"
     ####material
     api 'com.google.android.material:material:1.3.0-alpha01'
